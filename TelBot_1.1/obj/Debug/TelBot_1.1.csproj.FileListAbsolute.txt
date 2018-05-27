@@ -1,0 +1,15 @@
+c:\users\wow19\source\repos\TelBot_1.1\TelBot_1.1\bin\Debug\TelBot_1.1.exe.config
+c:\users\wow19\source\repos\TelBot_1.1\TelBot_1.1\bin\Debug\TelBot_1.1.exe
+c:\users\wow19\source\repos\TelBot_1.1\TelBot_1.1\bin\Debug\TelBot_1.1.pdb
+c:\users\wow19\source\repos\TelBot_1.1\TelBot_1.1\bin\Debug\Newtonsoft.Json.dll
+c:\users\wow19\source\repos\TelBot_1.1\TelBot_1.1\bin\Debug\Telegram.Bot.dll
+c:\users\wow19\source\repos\TelBot_1.1\TelBot_1.1\bin\Debug\Newtonsoft.Json.xml
+c:\users\wow19\source\repos\TelBot_1.1\TelBot_1.1\bin\Debug\Telegram.Bot.xml
+c:\users\wow19\source\repos\TelBot_1.1\TelBot_1.1\obj\Debug\TelBot_1.1.csprojAssemblyReference.cache
+c:\users\wow19\source\repos\TelBot_1.1\TelBot_1.1\obj\Debug\TelBot_1._1.Form1.resources
+c:\users\wow19\source\repos\TelBot_1.1\TelBot_1.1\obj\Debug\TelBot_1._1.Properties.Resources.resources
+c:\users\wow19\source\repos\TelBot_1.1\TelBot_1.1\obj\Debug\TelBot_1.1.csproj.GenerateResource.cache
+c:\users\wow19\source\repos\TelBot_1.1\TelBot_1.1\obj\Debug\TelBot_1.1.csproj.CoreCompileInputs.cache
+c:\users\wow19\source\repos\TelBot_1.1\TelBot_1.1\obj\Debug\TelBot_1.1.csproj.CopyComplete
+c:\users\wow19\source\repos\TelBot_1.1\TelBot_1.1\obj\Debug\TelBot_1.1.exe
+c:\users\wow19\source\repos\TelBot_1.1\TelBot_1.1\obj\Debug\TelBot_1.1.pdb
